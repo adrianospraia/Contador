@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(70, 142, 236);
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
+
+
+section {
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: 0 auto;
+
+}
+
+p {
+   text-align: start;
+}
+
+#button {
+    margin: 8px;
+}
+
+footer > p {
+    text-align: center;
+}
